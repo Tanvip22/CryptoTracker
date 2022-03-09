@@ -25,7 +25,7 @@ const fetchPrice= async(ctype) =>{
      const target = 'USD';
 
 
-     res.innerHTML =`<tr style="background-color:blue; color:white; font-weight:700">
+     res.innerHTML =`<tr style="background-color:fb8500; color:white; font-weight:700">
      <td>
          Property
      </td>
